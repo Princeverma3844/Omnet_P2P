@@ -10,7 +10,7 @@ The objective of this project is to make the Peer to Peer network in which the P
 The value of n will be given by the running of python script. This n is the number of peers present in the network.
 
 ## How To Run
-1. Run the python script and provide the value of n in that script.
+1. Run the python script and provide the value of n in that script. You will be required to provide the absolute path of the files in the python file of the network.ned, client.ned and the value1 and value2 txt file present. 
 2. Build and run the project and do the simulation.
 
 ## Proof of correctness
