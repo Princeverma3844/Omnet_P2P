@@ -1,8 +1,4 @@
-# Group Members
-## Prince Verma
-## Priyanshu Kumar
-
-# Omnet P2P Network
+# Implementing P2P Network using Chord Hash Distributed Algorithm
 ## Objective
 The objective of this project is to make the Peer to Peer network in which the Peer are arranged in cyclic topology and sending the messages in log(n) to other clients using some additional connections and utilizing the Chord Hash Distribution Algorithm.
 
